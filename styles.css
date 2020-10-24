@@ -22107,7 +22107,7 @@ video {
   padding-bottom: 3rem;
   font-size: 2.25rem;
   font-weight: 600;
-  line-height: 1;
+  line-height: 2;
   letter-spacing: 0.05em;
   --text-opacity: 1;
   color: #4a5568;
@@ -22120,7 +22120,7 @@ video {
   margin-top: 0.25rem;
   font-size: 1.5rem;
   font-weight: 600;
-  line-height: 1;
+  line-height: 2;
   letter-spacing: 0.05em;
   --text-opacity: 1;
   color: #4a5568;
